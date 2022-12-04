@@ -43,7 +43,7 @@ require "connection.php";
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
-    <script>
+    <!-- <script>
         (function(w, d) {
             w.CollectId = "618b7f3e11c7462f21dec261";
             var h = d.head || d.getElementsByTagName("head")[0];
@@ -53,7 +53,7 @@ require "connection.php";
             s.setAttribute("src", "https://collectcdn.com/launcher.js");
             h.appendChild(s);
         })(window, document);
-    </script>
+    </script> -->
 
 </head>
 <!-- !Important notice -->

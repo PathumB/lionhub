@@ -756,7 +756,7 @@ function addToCart(id) {
 
                 Snackbar.show({
                     pos: 'bottom-right',
-                    text: "Added To Cart",
+                    text: "Product Added To Cart",
                     actionTextColor: '#17D1EE',
                     customClass: 'snack'
 
